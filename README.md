@@ -7,7 +7,8 @@ Designed and built by **Iftikhar Ahmed** with Claude Code (2026).
 > This is a showcase. The source code is private. A live demo or code walkthrough is available on request.
 
 <p align="center">
-  <img src="images/voice-order-confirmed.jpg" alt="Voice order confirmed on the counter screen" width="720">
+  <img src="images/counter-screen-english.jpg" alt="Voice Counter screen" width="900"><br>
+  <em>The counter screen: the customer asks in English, the agent answers and adds Fresh Lime. The order list is on the left.</em>
 </p>
 
 ---
@@ -31,11 +32,22 @@ Designed and built by **Iftikhar Ahmed** with Claude Code (2026).
 | Languages | Urdu, English, and both mixed in one sentence |
 | Shops | One system serves many shops, each with its own menu |
 
-## Screens (test shops with made-up menus)
+## Screens (test shop with a made-up menu)
 
-| Restaurant menu | Pizza menu |
-|---|---|
-| <img src="images/restaurant-menu-screen.jpg" width="320"> | <img src="images/pizza-menu-screen.jpg" width="320"> |
+<p align="center">
+  <img src="images/order-confirmed.jpg" alt="Order confirmed with receipt" width="560"><br>
+  <em>Order confirmed: receipt with items, total and order number. "Please pay at the counter."</em>
+</p>
+
+<p align="center">
+  <img src="images/counter-screen-urdu-light.jpg" alt="Light theme, conversation in Urdu" width="900"><br>
+  <em>Light theme: a conversation in Urdu. The customer is greeted, then a Regular Zinger Burger is added.</em>
+</p>
+
+<p align="center">
+  <img src="images/bread-order-prices.jpg" alt="Asking prices and ordering bread" width="900"><br>
+  <em>The customer asks the price of roti, then orders one naan and one roti. The order list updates at once.</em>
+</p>
 
 ## How it fits together
 
